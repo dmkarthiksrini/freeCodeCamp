@@ -134,3 +134,30 @@ You can write Acceptance Tests for each of these sub-features of the bigger dial
 
 #### More Information:
 - [International Software Testing Qualifications Board](http://www.istqb.org/)
+
+Sample Test Template :
+
+Date: Acceptance Test Status Report Date
+
+Today’s Acceptance Tests Execution details:
+
+Number of Tests Passed
+Number of Tests Failed
+Number of Tests In-Progress
+Acceptance Tests Execution Details till date:
+
+Total number of Tests
+Number of Tests Passed
+Number of Tests Failed
+Number of Tests In-Progress
+Number of Tests Pending
+Defects Details:
+
+Number of Defects Logged
+Each Defect should have the below details:
+ID, Summary, Component, Severity
+The total number of defects logged till now (in Acceptance Testing Phase).
+This report has to be reviewed on a daily basis to ensure that the execution is on track and there is no deviation from the planned schedules.
+
+Acceptance Test Summary Report
+This is the report which summarizes the status of the entire Acceptance Testing phase. This involves details like testing activities conducted, references to criteria met, requirement specifications, business rules, execution results, planned schedules, deviations, etc.
